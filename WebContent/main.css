@@ -1,0 +1,55 @@
+
+.button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+#nav ul li{
+    padding-left:10px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+
+#nav ul li a{
+    display: block;
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#nav ul li a:hover {
+    color: black;
+    text-decoration: underline;
+
+}
+
+
+
+.buttonLogout{
+    margin:0% 0%;
+    background-color: #4CAF50; /* Green */
+    padding:10px 50px;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    cursor: pointer;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
